@@ -3,6 +3,7 @@ Created on 2022/07/02
 
 @author: Fumiya
 '''
+# ライセンス：GPL
 import getopt
 import sys
 import sdxf
